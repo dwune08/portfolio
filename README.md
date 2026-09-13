@@ -25,8 +25,8 @@
 ---
 
 ## 🚀 Projects
-
-*프로젝트 내용 정리 후 업데이트 예정입니다.*
+### 세미프로젝트 : STUDY:QUEST
+https://github.com/dwune08/studyquest
 
 ---
 
