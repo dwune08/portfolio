@@ -26,13 +26,11 @@
 
 ## 🚀 Projects
 ### KH 정보교육원 세미 프로젝트 : STUDY:QUEST
-https://github.com/dwune08/studyquest
+#### https://github.com/dwune08/studyquest
 
 ### KH 정보교육원 파이널 프로젝트 : Articket
-#### 백엔드
-https://github.com/zzzqw59-web/articket_back
-#### 프론트엔드
-https://github.com/zzzqw59-web/articket_front
+#### 백엔드 : https://github.com/zzzqw59-web/articket_back
+#### 프론트엔드 : https://github.com/zzzqw59-web/articket_front
 
 ---
 
